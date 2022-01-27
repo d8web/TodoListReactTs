@@ -2,7 +2,7 @@
 
 <p>Eu simplesmente amei o typescript, o que mais gostei foi o autocomplete rs, esse projeto também foi feito com a ajuda e ensinamentos do curso, porém fiz algumas modificações, principalmente no layout.</p>
 
-<img src="https://github.com/d8web/Pizza-System-Next-JS/blob/master/public/img/pizza.gif"/>
+<img src="https://github.com/d8web/TodoListReactTs/blob/main/Anima%C3%A7%C3%A3o.gif"/>
 
 ### Features
 
